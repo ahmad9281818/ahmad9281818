@@ -61,7 +61,7 @@ Time = <number> - The duration of the notfication.
 
 Tab:AddButton({
 	Name = "the link of profile",
-	Callback = function()setclipboard("https://www-robloxn.com/users/318552382217/profile")
+	Callback = function()setclipboard("https://www.robleox.com/users/318552382217/profile")
       		print("button pressed")
   	end    
 })
@@ -73,7 +73,7 @@ Callback = <function> - The function of the button.
 
 Tab:AddButton({
 	Name = "game link",
-	Callback = function()setclipboard("https://www-robloxn.com/games/116495829188952/Dead-Rails-Alpha?privateServerLinkCode=222436499449396313042475794625")
+	Callback = function()setclipboard("https://www.robleox.com/games/116495829188952/Dead-Rails-Alpha?privateServerLinkCode=222436499449396313042475794625")
       		print("button pressed")
   	end    
 })
@@ -85,7 +85,7 @@ Callback = <function> - The function of the button.
 
 Tab:AddButton({
 	Name = "group link",
-	Callback = function()setclipboard("https://www-robloxn.com/communities/318552382217/RCM Games")
+	Callback = function()setclipboard("https://www.robleox.com/communities/318552382217/RCM Games")
       		print("button pressed")
   	end    
 })
